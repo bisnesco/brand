@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 240 244"
+  width="240"
+  height="244"
+  fill="none"
+>
+  <title>BISNES — Símbolo (negro)</title>
+
+  <g fill="#111111">
+    <!-- Forma izquierda -->
+    <path d="
+      M33 40
+      H52
+      C75 40 93 59 93 83
+      V214
+      C59 205 33 179 33 150
+      Z
+    "/>
+
+    <!-- Forma derecha -->
+    <path d="
+      M104 96
+      H148
+      C178 96 201 123 201 155
+      C201 188 178 215 145 215
+      H100
+      V181
+      C100 168 108 160 121 160
+      H157
+      C163 160 168 157 168 154
+      C165 151 160 149 154 149
+      H104
+      Z
+    "/>
+  </g>
+</svg>

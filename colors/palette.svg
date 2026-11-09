@@ -1,0 +1,21 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 360 120"
+  width="360"
+  height="120"
+  fill="none"
+>
+  <title>BISNES — Paleta de colores</title>
+
+  <!-- Naranja -->
+  <rect x="20" y="20" width="80" height="80" rx="8" fill="#FD5D2A" />
+  <text x="60" y="112" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#111111">#FD5D2A</text>
+
+  <!-- Negro -->
+  <rect x="140" y="20" width="80" height="80" rx="8" fill="#111111" />
+  <text x="180" y="112" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#111111">#111111</text>
+
+  <!-- Blanco -->
+  <rect x="260" y="20" width="80" height="80" rx="8" fill="#FFFFFF" stroke="#111111" stroke-width="1" />
+  <text x="300" y="112" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" fill="#111111">#FFFFFF</text>
+</svg>

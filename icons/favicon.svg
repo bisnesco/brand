@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 32 32"
+  width="32"
+  height="32"
+  fill="none"
+>
+  <title>BISNES — Favicon</title>
+
+  <g transform="translate(2.2, 2) scale(0.115)" fill="#FD5D2A">
+    <path d="
+      M33 40
+      H52
+      C75 40 93 59 93 83
+      V214
+      C59 205 33 179 33 150
+      Z
+    "/>
+    <path d="
+      M104 96
+      H148
+      C178 96 201 123 201 155
+      C201 188 178 215 145 215
+      H100
+      V181
+      C100 168 108 160 121 160
+      H157
+      C163 160 168 157 168 154
+      C165 151 160 149 154 149
+      H104
+      Z
+    "/>
+  </g>
+</svg>
