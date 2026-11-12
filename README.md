@@ -1,8 +1,8 @@
-# BISNES — Identidad visual
+# BISNES — Visual identity
 
-Estructura de activos de marca para **BISNES**. El símbolo original se conserva sin modificar; las variantes se generan únicamente cambiando colores y adaptando formatos.
+Brand asset structure for **BISNES**. The original symbol is preserved unchanged; variants are created only by changing colors and adapting formats.
 
-## Estructura
+## Structure
 
 ```text
 brand/
@@ -33,44 +33,44 @@ brand/
 └── README.md
 ```
 
-## Colores oficiales
+## Official colors
 
-| Nombre | Hex |
+| Name | Hex |
 |---|---|
-| Naranja | `#FD5D2A` |
-| Negro | `#111111` |
-| Blanco | `#FFFFFF` |
+| Orange | `#FD5D2A` |
+| Black | `#111111` |
+| White | `#FFFFFF` |
 
-## Símbolo
+## Symbol
 
-- Archivo de referencia original: `main.svg` (símbolo en naranja).
-- Variantes en `logos/symbol/`: `orange.svg`, `black.svg`, `white.svg`.
-- Geometría idéntica a `main.svg`; solo cambia el color de relleno.
-- Fondo transparente en todos los casos.
+- Original reference file: `main.svg` (orange symbol).
+- Variants in `logos/symbol/`: `orange.svg`, `black.svg`, `white.svg`.
+- Geometry is identical to `main.svg`; only the fill color changes.
+- Transparent background in all cases.
 
 ## Wordmark
 
-- Texto: `bisnes` (minúsculas).
-- Wordmark **provisional tipográfico** (no existe aún un wordmark definitivo).
-- Fuente utilizada (provisional): pila del sistema `system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif`, peso `700`, interletraje `-1`.
-- Variantes en `logos/wordmark/`: `orange.svg`, `black.svg`, `white.svg`.
-- Fondo transparente.
+- Text: `bisnes` (lowercase).
+- **Provisional typographic wordmark** (a final wordmark has not yet been created).
+- Font used (provisional): system font stack `system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif`, weight `700`, letter spacing `-1`.
+- Variants in `logos/wordmark/`: `orange.svg`, `black.svg`, `white.svg`.
+- Transparent background.
 
-## Combinaciones
+## Combinations
 
-- Símbolo + wordmark `bisnes`.
-- Variantes de color: naranja, negro, blanco.
-- Orientaciones: `horizontal/` y `vertical/`.
-- Fondo transparente; proporciones del símbolo conservadas mediante escalado uniforme.
+- Symbol + `bisnes` wordmark.
+- Color variants: orange, black, white.
+- Orientations: `horizontal/` and `vertical/`.
+- Transparent background; the symbol's proportions are preserved through uniform scaling.
 
-## Iconos
+## Icons
 
-- `icons/favicon.svg`: símbolo adaptado a 32×32.
-- `icons/app.svg`: símbolo adaptado a 512×512.
-- `icons/apple-touch-icon.png`: 180×180 px, generado a partir del símbolo (fondo transparente).
+- `icons/favicon.svg`: symbol adapted to 32×32.
+- `icons/app.svg`: symbol adapted to 512×512.
+- `icons/apple-touch-icon.png`: 180×180 px, generated from the symbol (transparent background).
 
-## Notas
+## Notes
 
-- No se han modificado ni eliminado los archivos originales (`main.svg`).
-- Todos los SVG mantienen fondo transparente (sin rectángulos de fondo).
-- Las proporciones del símbolo original (240×244) se conservan en todas las adaptaciones.
+- The original files (`main.svg`) have not been modified or removed.
+- All SVGs have transparent backgrounds (no background rectangles).
+- The original symbol's proportions (240×244) are preserved in all adaptations.
